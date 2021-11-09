@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HangmanGame", "HangmanGame\HangmanGame.pyproj", "{3484E4A5-5997-43B2-B22C-5FACA7CEE54E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3484E4A5-5997-43B2-B22C-5FACA7CEE54E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3484E4A5-5997-43B2-B22C-5FACA7CEE54E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6BC8C43-0B7A-46B4-9673-0FF03CD029A1}
+	EndGlobalSection
+EndGlobal
