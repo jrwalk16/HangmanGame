@@ -1,5 +1,8 @@
 # HangmanGame
 
+pip install the following:
+random
+
 This is my final python project for Code Louisville.
 
 The project includes the following required features;
